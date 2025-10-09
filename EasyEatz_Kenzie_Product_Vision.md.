@@ -1,0 +1,97 @@
+# 🍳 EasyEatz – Product Vision (Kenzie’s Contribution)
+
+## 👤 Team Members and Roles
+| Name | Role | Responsibilities |
+|------|------|------------------|
+| **Tionna Freeman** | Product Manager | Oversees project direction, manages backlog, organizes weekly meetings |
+| **KC** | Web Designer | Creates wireframes and UI mockups for the app |
+| **Kenzie** | Recipe Writer | Develops recipe content, personas, and user stories |
+
+---
+
+## 🌟 Product Vision Statement
+**Product Name:** *EasyEatz – The Smart Recipe Finder App*
+
+**Vision:**  
+Our goal is to create an intuitive web application that helps users discover, organize, and personalize recipes based on their preferences, ingredients, and dietary needs. EasyEatz will make cooking enjoyable and accessible by connecting users with a community of home cooks and smart recipe suggestions.
+
+**Purpose:**  
+Simplify the process of meal planning and recipe discovery, reduce food waste, and encourage healthier eating habits for all experience levels.
+
+**Target Users:**  
+- Busy professionals seeking quick meal ideas  
+- College students learning to cook affordably  
+- Health-conscious individuals with dietary restrictions  
+
+---
+
+## 👩‍🍳 Persona (Kenzie’s Focus)
+
+### **Chris – The College Student**
+- **Age:** 20  
+- **Occupation:** University Student  
+- **Background:** Lives off-campus with roommates and cooks for himself for the first time.  
+- **Goals:**  
+  - Cook easy, affordable meals with limited ingredients  
+  - Learn basic cooking techniques  
+  - Save money by avoiding takeout  
+
+- **Frustrations:**  
+  - Doesn’t know where to start when cooking  
+  - Gets overwhelmed by complicated recipes  
+  - Has a tight student budget  
+
+- **Needs:**  
+  - Simple recipes with few ingredients  
+  - Step-by-step cooking instructions  
+  - Tips for substitutions when ingredients are missing  
+
+---
+
+## 🧾 User Story (Kenzie’s Focus)
+
+**Title:** Easy Recipe Discovery for Students  
+
+**As a** college student learning to cook,  
+**I want** to find quick, low-cost recipes based on what I already have in my kitchen,  
+**so that** I can eat healthier without spending too much time or money.  
+
+**Acceptance Criteria:**  
+- The app should allow users to search by ingredients they already own.  
+- Recipes should display estimated cost and cooking time.  
+- Include a “Beginner Friendly” tag for simpler options.
+
+---
+
+## 🖥️ Prototype Description (Kenzie’s Section)
+
+### **Main Screen**
+- App logo and search bar (“What ingredients do you have?”)  
+- Quick filter buttons: *Budget-Friendly*, *Beginner*, *Healthy*, *15-Minute Meals*  
+- Featured recipes like “3-Ingredient Pasta” or “5-Minute Smoothie”
+
+### **Recipe Screen**
+- Recipe title and photo  
+- Ingredients list with “Add to Shopping List” option  
+- Step-by-step directions  
+- Difficulty level indicator (Easy/Intermediate/Advanced)  
+- Estimated cost and cooking time  
+
+### **Favorites Screen**
+- Saved recipes section  
+- Option to rate or leave notes for recipes tried  
+
+---
+
+## 📋 Product Backlog Items (PBIs)
+
+| PBI (Product Backlog Item) | Status | Sprint | Estimate | Assigned | Reviewer |
+|-----------------------------|---------|----------|-----------|-----------|-----------|
+| 1. Write up a persona description | Ready for consideration | 2 hours | 1 senior for 48 hrs | Tionna | KC |
+| 2. Create prototype wireframes | Ready for refinement | 1 hour | 2 juniors for 48 hrs | KC | Tionna |
+| 3. Write user stories | Ready for implementation | 2 hours | 2 juniors + 1 senior for 24 hrs | Kenzie | Tionna |
+
+---
+
+## 🧩 Summary
+EasyEatz focuses on accessibility, speed, and simplicity. It’s more than just a recipe site — it’s a cooking companion for real life. By supporting busy students, new cooks, and working parents, EasyEatz helps people eat better, save time, and gain confidence in the kitchen.
