@@ -14,6 +14,8 @@ My Role
 As the Data & Logistics lead, I handled the recipe and nutrition data used throughout the app.
 I cleaned, organized, and prepared the data so it could easily connect to the app’s front-end and support our team’s overall design and functionality.
 
+You will be able to find My minutes file and PBI file under my "main" branch.
+
 
 
 # Welcome to your Expo app 👋
