@@ -1,4 +1,4 @@
-EasyEatz is a group project for CSCI 4221 – Software Engineering.
+EasyEatz is a group project for CSCI 4221 – Software Engineering. We are group 4.
 It’s a mobile app built with React Native Expo that helps users explore recipes, view nutrition data, and organize their favorite meals.
 
 Team Members
@@ -7,7 +7,7 @@ Tionna – Front-End Developer: Built the Home and Recipe screens and set up nav
 
 KyLeigh – Back-End / Creative Design: Created the app logo, design mockups, and managed image assets.
 
-Mackenzie Howard – Data & Logistics: Collected and formatted recipe and nutrition data, organized it in JSON format for integration, and maintained ingredient tracking.
+Mackenzie – Data & Logistics: Collected and formatted recipe and nutrition data, organized it in JSON format for integration, and maintained ingredient tracking.
 
 My Role
 
