@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+My name is Mackenzie Howard and I am in charge of the data and logistics for my group porject called "EazyEatz"!
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
