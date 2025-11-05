@@ -1,6 +1,23 @@
+EasyEatz is a group project for CSCI 4221 – Software Engineering.
+It’s a mobile app built with React Native Expo that helps users explore recipes, view nutrition data, and organize their favorite meals.
+
+Team Members
+
+Tionna – Front-End Developer: Built the Home and Recipe screens and set up navigation.
+
+KyLeigh – Back-End / Creative Design: Created the app logo, design mockups, and managed image assets.
+
+Mackenzie Howard – Data & Logistics: Collected and formatted recipe and nutrition data, organized it in JSON format for integration, and maintained ingredient tracking.
+
+My Role
+
+As the Data & Logistics lead, I handled the recipe and nutrition data used throughout the app.
+I cleaned, organized, and prepared the data so it could easily connect to the app’s front-end and support our team’s overall design and functionality.
+
+
+
 # Welcome to your Expo app 👋
 
-My name is Mackenzie Howard and I am in charge of the data and logistics for my group porject called "EazyEatz"!
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
