@@ -1,0 +1,61 @@
+// components/GoalTracker.tsx
+import React from "react";
+import { View, Text, Pressable, FlatList, StyleSheet } from "react-native";
+import { useUser } from "../UserContext";
+
+export default function GoalTracker() {
+  const { goals, toggleGoal } = useUser();
+
+  return (
+    <View style={styles.container}>
+      <Text style={styles.title}>Today&apos;s Goals</Text>
+
+      <FlatList
+        data={goals}
+        keyExtractor={(item) => item.id}
+        renderItem={({ item }) => (
+          <Pressable
+            onPress={() => toggleGoal(item.id)}
+            style={[
+              styles.goalItem,
+              item.completed && styles.goalItemDone,
+            ]}
+          >
+            <Text
+              style={[
+                styles.goalText,
+                item.completed && styles.goalTextDone,
+              ]}
+            >
+              {item.title}
+            </Text>
+            <Text>{item.completed ? "✅" : "⬜"}</Text>
+          </Pressable>
+        )}
+      />
+    </View>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: { gap: 12 },
+  title: {
+    fontSize: 20,
+    fontWeight: "bold",
+    marginBottom: 4,
+  },
+  goalItem: {
+    padding: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  goalItemDone: {
+    backgroundColor: "#d1fade",
+  },
+  goalText: {
+    fontSize: 16,
+  },
+  goalTextDone: {
+    textDecorationLine: "line-through",
+  },
+});
